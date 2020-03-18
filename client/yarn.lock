@@ -4422,10 +4422,10 @@ jquery-slimscroll@^1.3.8:
   dependencies:
     jquery ">= 1.7"
 
-jquery-ui@<1.12.0-beta.1:
-  version "1.10.5"
-  resolved "https://registry.yarnpkg.com/jquery-ui/-/jquery-ui-1.10.5.tgz#826aed3dd1f88d32ae75d74df48643dc431a5815"
-  integrity sha1-gmrtPdH4jTKudddN9IZD3EMaWBU=
+jquery-ui@<1.13.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/jquery-ui/-/jquery-ui-1.12.0.tgz#59c6037a2d9c57e9a2521a9b7a497116d41b4246"
+  integrity sha1-WcYDei2cV+miUhqbeklxFtQbQkY=
 
 jquery.ui.position@^1.11.4:
   version "1.11.4"
